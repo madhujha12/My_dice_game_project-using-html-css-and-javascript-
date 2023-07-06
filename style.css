@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(105, 100, 100);
+  }
+  h1 {
+    margin-left: 400px;
+    margin-top: 40px;
+    color: rgb(7, 7, 7);
+    font-family: cursive;
+    font-style: italic;
+    font-size: 3rem;
+  }
+  
+  h2 {
+    margin-left: 320px;
+    margin-top: 70px;
+    color: rgb(12, 11, 11);
+    font-family: cursive;
+    display: inline-flex;
+    font-style: italic;
+    font-size: 2.5rem;
+  }
+  .player2 {
+    margin-right: 100px;
+    border-left-width: 30px;
+    padding-left: 50px;
+  }
+  img {
+    margin-left: 200px;
+    margin-top: 30px;
+  }
+  #p1 {
+    margin-left: 220px;
+  }
+  #p2 {
+    margin-left: 175px;
+  }
+  button {
+    color: white;
+    background-color: black;
+    border: 2px solid grey;
+    border-radius: 10px;
+    font-size: 15px;
+    cursor: pointer;
+    font-family: cursive;
+    width: 100px;
+    height: 30px;
+    margin-left: 40.5%;
+    border-radius: 20px;
+
+  }
+  button:hover {
+    background-color: rgb(146, 142, 142);
+    color: rgb(14, 13, 13);
+  }
